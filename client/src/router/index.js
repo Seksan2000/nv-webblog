@@ -28,7 +28,7 @@ export default new Router({
       component: UserEdit
     },
     {
-      path: '/user/show',
+      path: '/user/:userId',
       name: 'user-show',
       component: UserShow
     }
