@@ -1,4 +1,4 @@
-# nv-webblog-clinet
+# nv-webblog-client
 
 > nodejs veujs webblog client
 
